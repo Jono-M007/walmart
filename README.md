@@ -11,18 +11,15 @@ The dataset was obtained from the Kaggle. This dataset contains sales transactio
   2. Product Line Overview: Analyzes the unique product lines and identifies the top-selling product lines.
   3. Payment Method Distribution: Displays the most common payment methods used by customers.
   4. Revenue Analysis:
-     
-    *Monthly revenue trends.
-     
-    *City-wise revenue distribution.
+     Monthly revenue trends.
+     City-wise revenue distribution.
+     Top revenue-generating product lines.
     
-    *Top revenue-generating product lines.
-    
-  6. Cost of Goods Sold (COGS): Shows which months had the highest COGS.
-  7. VAT and Tax Analysis: Calculates the average VAT per product line.
-  8. Sales by Gender and Time:
+  5. Cost of Goods Sold (COGS): Shows which months had the highest COGS.
+  6. VAT and Tax Analysis: Calculates the average VAT per product line.
+  9. Sales by Gender and Time:
     *Popular product lines segmented by gender.
     *Sales trends across different times of the day and weekdays.
-  9. Customer Ratings: Displays the average customer rating for each product line.
-  10. Branch Performance: Identifies branches that sold more products than the average branch.
+  8. Customer Ratings: Displays the average customer rating for each product line.
+  9. Branch Performance: Identifies branches that sold more products than the average branch.
 
