@@ -18,11 +18,13 @@ The dataset was obtained from the Kaggle. This dataset contains sales transactio
 
       Top revenue-generating product lines.
     
-  6. Cost of Goods Sold (COGS): Shows which months had the highest COGS.
-  7. VAT and Tax Analysis: Calculates the average VAT per product line.
-  9. Sales by Gender and Time:
-    *Popular product lines segmented by gender.
-    *Sales trends across different times of the day and weekdays.
+  5. Cost of Goods Sold (COGS): Shows which months had the highest COGS.
+  6. VAT and Tax Analysis: Calculates the average VAT per product line.
+  7. Sales by Gender and Time:
+      
+     Popular product lines segmented by gender.
+     
+     Sales trends across different times of the day and weekdays.
   8. Customer Ratings: Displays the average customer rating for each product line.
   9. Branch Performance: Identifies branches that sold more products than the average branch.
 
