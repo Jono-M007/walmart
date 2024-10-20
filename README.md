@@ -1,32 +1,24 @@
-# Walmart sales analysis 
+# Walmart Sales Exploratory Data Analysis
 
 ## Purpose of this project
-The major goal of this project is to analyze Walmart sales data to understand the various factors that impact the sales of its different branches.
+This repository contains SQL queries for an Exploratory Data Analysis (EDA) on Walmart sales data. This analysis aims to uncover insights related to product performance, customer behaviour, and sales trends across different cities and product lines. The queries focus on identifying key metrics such as revenue, product preferences, and sales distribution.
 
 ## About the dataset
 The dataset was obtained from the Kaggle. This dataset contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data includes 17 columns and 1000 rows.
 
-### Business questions
-+ How many unique products does the data have?
-+ What is the most common form of payment?
-+ Which product line sold the most?
-+ Total revenue per month?
-+ What month had the largest COGS?
-+ What product line had the largest revenue?
-+ Revenue per city?
-+ What product line had the largest VAT?
-+ Which brand sold more products than the average product sold?
-+ More common product line by gender?
-+ What is the average rating of each product line?
-+ What is the number of sales made at each time of the day per weekday?
-+ Which customer types bring in the most revenue?
-+ Which city has the largest VAT?
-+ Which customers pays the most VAT?
-+ How many unique customer types does the data have?
-+ How many unique payment methods does the data have?
-+ What is the most common customer type?
-+ What is the gender of most of the customers?
-+ What is the gender distribution per branch?
-+ What time of the day do customers give the most ratings?
-+ Which day of the week has the best average ratings ?
+### Key Analyses Included
+  1. Unique Cities and Branch Locations: Identifies the different cities and branches present in the dataset.
+  2. Product Line Overview: Analyzes the unique product lines and identifies the top-selling product lines.
+  3. Payment Method Distribution: Displays the most common payment methods used by customers.
+  4. Revenue Analysis:
+    *Monthly revenue trends.
+    *City-wise revenue distribution.
+    *Top revenue-generating product lines.
+  5. Cost of Goods Sold (COGS): Shows which months had the highest COGS.
+  6. VAT and Tax Analysis: Calculates the average VAT per product line.
+  7. Sales by Gender and Time:
+    *Popular product lines segmented by gender.
+    *Sales trends across different times of the day and weekdays.
+  8. Customer Ratings: Displays the average customer rating for each product line.
+  9. Branch Performance: Identifies branches that sold more products than the average branch.
 
